@@ -6,6 +6,9 @@
   "scripts": {
     "test": "node recursion.js"
   },
+  "dependencies": {
+    "node":"20.5.0"
+  },
   "author": "",
   "license": "ISC"
 }
