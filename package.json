@@ -4,11 +4,14 @@
   "description": "",
   "main": "recursion.js",
   "scripts": {
-    "test": "node recursion.js"
+    "test": "npx cypress run"
   },
   "dependencies": {
-    "node":"20.5.0"
+    "node": "20.5.0"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.17.4"
+  }
 }
